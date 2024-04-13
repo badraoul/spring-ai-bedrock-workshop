@@ -1,0 +1,12 @@
+com/xkcd/ai/roles/RoleController.class
+com/xkcd/ai/stuff/Completion.class
+com/xkcd/ai/Application.class
+com/xkcd/ai/helloworld/SimpleAiController.class
+com/xkcd/ai/rag/RagController.class
+com/xkcd/ai/prompttemplate/PromptTemplateController.class
+com/xkcd/ai/stuff/StuffController.class
+com/xkcd/ai/rag/RagService.class
+com/xkcd/ai/roles/Completion.class
+com/xkcd/ai/output/OutputParserController.class
+com/xkcd/ai/output/ActorsFilms.class
+com/xkcd/ai/rag/config/RagConfiguration.class

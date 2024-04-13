@@ -1,0 +1,12 @@
+/Users/watkinss/workspace/spring-ai/azure-ai-workshop/spring-ai-azure-workshop/src/main/java/com/xkcd/ai/rag/RagController.java
+/Users/watkinss/workspace/spring-ai/azure-ai-workshop/spring-ai-azure-workshop/src/main/java/com/xkcd/ai/rag/config/RagConfiguration.java
+/Users/watkinss/workspace/spring-ai/azure-ai-workshop/spring-ai-azure-workshop/src/main/java/com/xkcd/ai/stuff/StuffController.java
+/Users/watkinss/workspace/spring-ai/azure-ai-workshop/spring-ai-azure-workshop/src/main/java/com/xkcd/ai/prompttemplate/PromptTemplateController.java
+/Users/watkinss/workspace/spring-ai/azure-ai-workshop/spring-ai-azure-workshop/src/main/java/com/xkcd/ai/Application.java
+/Users/watkinss/workspace/spring-ai/azure-ai-workshop/spring-ai-azure-workshop/src/main/java/com/xkcd/ai/output/ActorsFilms.java
+/Users/watkinss/workspace/spring-ai/azure-ai-workshop/spring-ai-azure-workshop/src/main/java/com/xkcd/ai/roles/Completion.java
+/Users/watkinss/workspace/spring-ai/azure-ai-workshop/spring-ai-azure-workshop/src/main/java/com/xkcd/ai/rag/RagService.java
+/Users/watkinss/workspace/spring-ai/azure-ai-workshop/spring-ai-azure-workshop/src/main/java/com/xkcd/ai/helloworld/SimpleAiController.java
+/Users/watkinss/workspace/spring-ai/azure-ai-workshop/spring-ai-azure-workshop/src/main/java/com/xkcd/ai/roles/RoleController.java
+/Users/watkinss/workspace/spring-ai/azure-ai-workshop/spring-ai-azure-workshop/src/main/java/com/xkcd/ai/stuff/Completion.java
+/Users/watkinss/workspace/spring-ai/azure-ai-workshop/spring-ai-azure-workshop/src/main/java/com/xkcd/ai/output/OutputParserController.java
