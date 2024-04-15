@@ -1,7 +1,7 @@
 # Spring AI Workshop for AWS Bedrock Cohere
 
 ## Introduction
-This is a copy of the excellent [spring-a--azure-workshop](https://github.com/Azure-Samples/spring-ai-azure-workshop/tree/main) that has been ported to work with AWS Bedrock.  Unlike vendors like Azure and Google, AWS has chosen to host multiple models rather than throw in entirely on their own model (Titan).  The model I selected for this workshop is 'Cohere' becuase it has SpringAI support for chat and embeddings.
+This is a copy of the excellent [spring-a--azure-workshop](https://github.com/Azure-Samples/spring-ai-azure-workshop/tree/main) that has been ported to work with AWS Bedrock.  Unlike vendors like Azure and Google, AWS has chosen to host multiple models rather than throw in entirely on their own model (Titan).  The model I selected for this workshop is 'Cohere' because it has SpringAI support for chat and embeddings.
 
 **NOTE:** I have everything in the library working except RAG.  That is a work in progress and this repo will be updated when that part is sorted out.
 
@@ -14,8 +14,8 @@ export AWS_ACCESS_KEY_ID=<INSERT ID HERE>
 export AWS_SECRET_ACCESS_KEY=<INSERT KEY HERE>
 export AWS_SESSION_TOKEN=<INSERT TOKEN HERE>
 ```
-NOTE: the docs will tell you tp enter these values in th application.properties file.  
-I found I had issues with the utility used in house to access AWS, so I leave them out of application.properties.   However, you must set the region in the application.properties file.
+NOTE: the docs will tell you to enter these values in the application.properties file.  
+I found I had issues with the utility used in-house to access AWS, so I leave them out of application.properties.   However, you *must* set the region in the application.properties file.
 
 ### Create Bedrock AI Deployments
 
@@ -36,7 +36,7 @@ spring.ai.bedrock.cohere.chat.options.temperature=0.8
 
 ## Workshop Overview
 
-The workshop consists of six examples, each with a dedicated `README` file.
+The workshop consists of six examples, each with a dedicated `README` file.  Note that there is a description of how Spring, and the goal is to instruct user on how SpringAI functions.   The code is essentially the same with every AI model.  
 
 All six workshop examples are organized into individual Java packages within this project. In each package, you'll find a Spring @RestController class that serves as the entry point for showcasing the discussed functionality.
 
